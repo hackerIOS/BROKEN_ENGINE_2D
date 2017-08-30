@@ -1,0 +1,15 @@
+int a 1
+int b
+string c "124"
+
+Start
+Debug a
+Debug c
+
+Start End
+
+Update
+Message "123" 10 10 100 50
+//Message string X y w h
+
+Update End

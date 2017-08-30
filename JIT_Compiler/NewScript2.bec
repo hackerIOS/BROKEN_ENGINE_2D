@@ -1,0 +1,21 @@
+string a "2dv";
+int b 123;
+
+Start
+ToStr a b;
+Debug a;
+End Start
+
+Update
+
+if a=="123"
+Debug "success";
+else if a=="12"
+Debug "12";
+else
+Debug "No";
+End if
+
+Translate "123" 0 1;
+//xxxxxx name xspeed yspeed
+End Update
