@@ -1,0 +1,31 @@
+About BROKEN ENGINE RENDER Part
+
+Development sequence
+
+1.Init RENDER
+
+Init SDL2
+Init Tools
+2.Get Scene Resource Listbox Data
+
+3.Generate Texture To Save SRSData
+
+using struct and new command
+Save into Texture
+
+4.Logic Graph(only can Develop in PC)
+
+Create LG File
+    Create XML File
+
+change LG File
+     Change XML File
+     
+5.Rendering
+100% real-time
+
+6.Run(Test) Game
+
+Run LG
+and Rendering
+

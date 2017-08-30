@@ -1,0 +1,23 @@
+//XML脚本
+<Variable>
+<Type="int" Variable_ID=0 Data=0/>
+<Type="bool" Variable_ID=1 Data=false/>
+<Type="string" Variable_ID=2 Data="123"/>
+<Variable/>
+
+<StartNode/>
+
+<UpdateNode>
+<Node_Name="DebugMessageNode" 
+<UpdateNode/>
+
+<V>
+<int 0 0/>
+
+</V>
+
+<S>
+</S>
+
+<U>
+</U>
